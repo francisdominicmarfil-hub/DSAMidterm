@@ -17,9 +17,9 @@
 2. After opening it, simply keep clicking **Next** until the **Install** button appears.
 3. Click **Install** and wait for the installation to complete.
 4. Once the installation is complete, you can test if the Git is really installed by doing the following steps:
-> &emsp;1. Create a **new folder** in your desktop.
-> &emsp;2. Open it and **Right Click** inside the folder. This is what usually appears.<br>
->   <image src="https://github.com/francisdominicmarfil-hub/DSAMidterm/blob/main/Testifying%20Git.png?raw=true" width="200" height="350"><br>
-> &emsp;3. If the Git did not show up like in the photo above, you will need to click **show more options**.<br>
-> <image src="https://github.com/francisdominicmarfil-hub/DSAMidterm/blob/main/Git%20Location.png?raw=true" width="200" height="350"><br>
-> &emsp;4. Once you see Git, it means it is properly installed.
+> &emsp;&emsp;&emsp; 1. Create a **new folder** in your desktop.  
+> &emsp;&emsp;&emsp; 2. Open it and **Right Click** inside the folder. This is what usually appears.<br>
+>   <image src="https://github.com/francisdominicmarfil-hub/DSAMidterm/blob/main/Testifying%20Git.png?raw=true" width="200" height="350"><br>  
+> &emsp;&emsp;&emsp; 3. If the Git did not show up like in the photo above, you will need to click **show more options**.<br>
+> <image src="https://github.com/francisdominicmarfil-hub/DSAMidterm/blob/main/Git%20Location.png?raw=true" width="200" height="350"><br>  
+> &emsp;&emsp;&emsp; 4. Once you see Git, it means it is properly installed.
