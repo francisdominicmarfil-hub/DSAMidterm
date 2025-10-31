@@ -1,6 +1,6 @@
 # **LET'S GIT READY! A BEGINNER'S SETUP GUIDE FOR GIT AND GITHUB**
 
-# **How to Download Git?**
+## **How to Download Git?**
 
 1. Open your web browser.  
 2. Search git in the search bar.
@@ -10,3 +10,16 @@
     <img src="https://github.com/francisdominicmarfil-hub/DSAMidterm/blob/main/Install%20Button.png?raw=true" width="400" height="350"><br>
 5. Click the **64-bit Git** under the **Standalone Installer** and it will start downloading.<br>
     <img src="https://github.com/francisdominicmarfil-hub/DSAMidterm/blob/main/Device%20Choices%20and%2064-bit.png?raw=true" width="400" height="350"><br>
+
+## **How to Install Git?**
+
+1. After downloading the **Git**, find the downloaded file then open it. You can locate this in the **download button** of your browser or in the **file folder** of your device.
+2. After opening it, simply keep clicking **Next** until the **Install** button appears.
+3. Click **Install** and wait for the installation to complete.
+4. Once the installation is complete, you can test if the Git is really installed by doing the following steps:
+> 1. Create a **new folder** in your desktop.
+> 2. Open it and **Right Click** inside the folder. This is what usually appears.<br>
+>   <image src="https://github.com/francisdominicmarfil-hub/DSAMidterm/blob/main/Testifying%20Git.png?raw=true" width="400" height="350"><br>
+> 3. If the Git did not show up like in the photo above, you will need to click on **show more options**.<br>
+> <image src="https://github.com/francisdominicmarfil-hub/DSAMidterm/blob/main/Git%20Location.png?raw=true" width="400" height="350"><br>
+> 4. Once you see Git, it means it’s properly installed.
