@@ -9,4 +9,4 @@
 4. Click the **install** button then choose your device (Windows, MacOS, Linux/Unix).<br>
     <img src="https://github.com/francisdominicmarfil-hub/DSAMidterm/blob/main/Install%20Button.png?raw=true" width="400" height="350"><br>
 5. Click the **64-bit Git** under the **Standalone Installer** and it will start downloading.<br>
-    <img src="https://github.com/francisdominicmarfil-hub/DSAMidterm/blob/main/Device%20Choices%20and%2064-bit.png/?raw=true" width="400" height="350"><br>
+    <img src="https://github.com/francisdominicmarfil-hub/DSAMidterm/blob/main/Device%20Choices%20and%2064-bit.png?raw=true" width="400" height="350"><br>
