@@ -9,4 +9,3 @@
 4. Click the **download** button then choose your device (Windows, MacOS, Linux/Unix).
 5. Click the **64-bit Git** under the **Standalone Installer** and it will start downloading.
 
-hello
