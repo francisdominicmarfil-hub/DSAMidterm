@@ -8,3 +8,5 @@
     <img src="https://github.com/francisdominicmarfil-hub/DSAMidterm/blob/main/Screenshot%202025-10-31%20180448.png?raw=true" width="400" height="350"><br><br>
 4. Click the **download** button then choose your device (Windows, MacOS, Linux/Unix).
 5. Click the **64-bit Git** under the **Standalone Installer** and it will start downloading.
+
+hello
