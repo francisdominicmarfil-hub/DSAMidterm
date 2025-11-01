@@ -19,7 +19,32 @@
 4. Once the installation is complete, you can test if the Git is really installed by doing the following steps:
 > &emsp;&emsp;&emsp; 1. Create a **new folder** in your desktop.  
 > &emsp;&emsp;&emsp; 2. Open it and **Right Click** inside the folder. This is what usually appears.<br>
->   &emsp;&emsp;&emsp;&emsp; <image src="https://github.com/francisdominicmarfil-hub/DSAMidterm/blob/main/Images/Testifying%20Git.png?raw=true" width="200" height="350"><br> 
+> &emsp;&emsp;&emsp;&emsp; <image src="https://github.com/francisdominicmarfil-hub/DSAMidterm/blob/main/Images/Testifying%20Git.png?raw=true" width="200" height="350"><br> 
 > &emsp;&emsp;&emsp; 3. If the Git did not show up like in the photo above, you will need to click **show more options**.<br>
 > &emsp;&emsp;&emsp;&emsp; <image src="https://github.com/francisdominicmarfil-hub/DSAMidterm/blob/main/Images/Git%20Location.png?raw=true" width="200" height="350"><br> 
 > &emsp;&emsp;&emsp; 4. Once you see Git, it means it is properly installed.
+
+## **How to Setup Git?**
+
+### **NOTE** For the purpose of this step-by-step procedure, we will use **VS Code** to setup Git.
+
+1. To initialize your Git, open the **folder** that we created earlier.
+2. Go to the **directory** of that folder located at the top.<br>
+    <image src="https://github.com/francisdominicmarfil-hub/DSAMidterm/blob/main/Images/Directory.png?raw=true" width="400" height="350"><br>
+3. Click the directory, type **cmd**, then enter. A Command Prompt will pop up just like this.<br>
+    <image src="https://github.com/francisdominicmarfil-hub/DSAMidterm/blob/main/Images/Command%20Prompt.png?raw=true" width="400" height="350"><br>
+4. Type code . in the Command Prompt, ensuring there's a **space** between **code** and the **period(.)** to launch VS Code.
+5. Once you have launched VS Code, go to **View**, and click **Terminal**. The View menu is found in the top-left corner, and the Terminal option is located near the bottom of the View menu.
+6. Once you have clicked it, a Terminal will show up below. You will see the word **powershell** at the top right of the terminal. Click this **v** and choose **Git Bash**.<br>
+    <image src="https://github.com/francisdominicmarfil-hub/DSAMidterm/blob/main/Images/Powershell.png?raw=true" width="400" height="300"><br>
+    **Note:** The text colors of the Terminal should be **colorful** when you chose Git Bash.
+7. After you have chosen Git Bash, **copy, paste, then enter one-by-one** this **Git setup commands** in your terminal.
+> &emsp;&emsp;&emsp; $ git config --global user.name "Your Name"
+> &emsp;&emsp;&emsp; $ git config --global user.email "you@youraddress.com"
+> &emsp;&emsp;&emsp; $ git config --global push.default matching
+> &emsp;&emsp;&emsp; $ git config --global alias.co checkout
+> &emsp;&emsp;&emsp; $ git init
+> &emsp;&emsp;&emsp; **Note:** Be sure not to include a double dollar sign ($ $) when copying and pasting the command.
+> &emsp;&emsp;&emsp; **Reference:** [Codemy](https://codemy.com/git/)
+8. It should look like this when you are done setting up **Git**.<br>
+    <image src="https://github.com/francisdominicmarfil-hub/DSAMidterm/blob/main/Images/Git%20setup%20commands.png?raw=true" width="400" height="350"><br>
