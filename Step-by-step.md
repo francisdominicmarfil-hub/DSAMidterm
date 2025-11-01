@@ -55,7 +55,7 @@
 1. Open your web browser and search **Github.com**. [Github](github.com)
 2. Create an account. Make sure that the google account that you will sign in is active.
 3. After creating an account, click the **new** button(green button) to create a new repository. This is located at the left side.
-4. CreatE a **repository name** then click **create repository** located below.
+4. Create a **repository name** then click **create repository** located below.
 5. Once you have created a repository, open your VS Code following the steps earlier. Right click in this area and create a **new file**. Then name it **README.md**. This will be needed when setting up Github.<br>
     <image src="https://github.com/francisdominicmarfil-hub/DSAMidterm/blob/main/Images/New%20File%20for%20README.md.png?raw=true" width="350" height="400"><br>
 6. After creating the README file, open your github account, then locate the **Github setup commands**.<br>
