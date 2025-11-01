@@ -26,17 +26,17 @@
 
 ## **How to Setup Git?**
 
-### **NOTE** For the purpose of this step-by-step procedure, we will use **VS Code** to setup Git.
+### **NOTE:** For the purpose of this step-by-step procedure, we will use **VS Code** to setup Git.
 
 1. To initialize your Git, open the **folder** that we created earlier.
 2. Go to the **directory** of that folder located at the top.<br>
     <image src="https://github.com/francisdominicmarfil-hub/DSAMidterm/blob/main/Images/Directory.png?raw=true" width="400" height="350"><br>
 3. Click the directory, type **cmd**, then enter. A Command Prompt will pop up just like this.<br>
-    <image src="https://github.com/francisdominicmarfil-hub/DSAMidterm/blob/main/Images/Command%20Prompt.png?raw=true" width="400" height="350"><br>
+    <image src="https://github.com/francisdominicmarfil-hub/DSAMidterm/blob/main/Images/Command%20Prompt.png?raw=true" width="500" height="450"><br>
 4. Type code . in the Command Prompt, ensuring there's a **space** between **code** and the **period(.)** to launch VS Code.
 5. Once you have launched VS Code, go to **View**, and click **Terminal**. The View menu is found in the top-left corner, and the Terminal option is located near the bottom of the View menu.
-6. Once you have clicked it, a Terminal will show up below. You will see the word **powershell** at the top right of the terminal. Click this **v** and choose **Git Bash**.<br>
-    <image src="https://github.com/francisdominicmarfil-hub/DSAMidterm/blob/main/Images/Powershell.png?raw=true" width="400" height="300"><br>
+6. Once you have clicked it, a Terminal will show up below. You will see the word **powershell** at the top right of the terminal. Click this **v** button and choose **Git Bash**.<br>
+    <image src="https://github.com/francisdominicmarfil-hub/DSAMidterm/blob/main/Images/Powershell.png?raw=true" width="500" height="400"><br>
     **Note:** The text colors of the Terminal should be **colorful** when you chose Git Bash.
 7. After you have chosen Git Bash, **copy, paste, then enter one-by-one** this **Git setup commands** in your terminal.
 > &emsp;&emsp;&emsp; $ git config --global user.name "Your Name"
