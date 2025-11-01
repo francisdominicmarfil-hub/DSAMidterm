@@ -44,7 +44,22 @@
 > &emsp;&emsp;&emsp; $ git config --global push.default matching  
 > &emsp;&emsp;&emsp; $ git config --global alias.co checkout  
 > &emsp;&emsp;&emsp; $ git init  
+>
 > &emsp;&emsp;&emsp; **Note:** Be sure not to include a double dollar sign ($ $) when copying and pasting the command.  
 > &emsp;&emsp;&emsp; **Reference:** [Codemy](https://codemy.com/git/)
 8. It should look like this when you are done setting up **Git**.<br>
     <image src="https://github.com/francisdominicmarfil-hub/DSAMidterm/blob/main/Images/Git%20setup%20commands.png?raw=true" width="500" height="450"><br>
+
+## **How to Setup Github?**
+
+1. Open your web browser and search **Github.com**. [Github](github.com)
+2. Create an account. Make sure that the google account that you will sign in is active.
+3. After creating an account, click the **new** button(green button) to create a new repository. This is located at the left side.
+4. CreatE a **repository name** then click **create repository** located below.
+5. Once you have created a repository, open your VS Code following the steps earlier. Right click in this area and create a **new file**. Then name it **README.md**. This will be needed when setting up Github.<br>
+    <image src="https://github.com/francisdominicmarfil-hub/DSAMidterm/blob/main/Images/New%20File%20for%20README.md.png?raw=true" width="350" height="400"><br>
+6. After creating the README file, open your github account, then locate the **Github setup commands**.<br>
+    <image src="https://github.com/francisdominicmarfil-hub/DSAMidterm/blob/main/Images/Github%20setup%20commands.png?raw=true" width="500" height="400"><br>
+7. **Copy, paste, then enter one-by-one** this commands in the git bash terminal.
+8. Once you are done, reload your Github and it should look like this when properly setup.<br>
+    <image src="https://github.com/francisdominicmarfil-hub/DSAMidterm/blob/main/Images/Github%20Account%20Setup.png?raw=true" width="500" heieght="400"><br>
