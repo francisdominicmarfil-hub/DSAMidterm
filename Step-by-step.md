@@ -47,4 +47,4 @@
 > &emsp;&emsp;&emsp; **Note:** Be sure not to include a double dollar sign ($ $) when copying and pasting the command.  
 > &emsp;&emsp;&emsp; **Reference:** [Codemy](https://codemy.com/git/)
 8. It should look like this when you are done setting up **Git**.<br>
-    <image src="https://github.com/francisdominicmarfil-hub/DSAMidterm/blob/main/Images/Git%20setup%20commands.png?raw=true" width="400" height="350"><br>
+    <image src="https://github.com/francisdominicmarfil-hub/DSAMidterm/blob/main/Images/Git%20setup%20commands.png?raw=true" width="500" height="450"><br>
