@@ -39,12 +39,12 @@
     <image src="https://github.com/francisdominicmarfil-hub/DSAMidterm/blob/main/Images/Powershell.png?raw=true" width="500" height="400"><br>
     **Note:** The text colors of the Terminal should be **colorful** when you chose Git Bash.
 7. After you have chosen Git Bash, **copy, paste, then enter one-by-one** this **Git setup commands** in your terminal.
-> &emsp;&emsp;&emsp; $ git config --global user.name "Your Name"
-> &emsp;&emsp;&emsp; $ git config --global user.email "you@youraddress.com"
-> &emsp;&emsp;&emsp; $ git config --global push.default matching
-> &emsp;&emsp;&emsp; $ git config --global alias.co checkout
-> &emsp;&emsp;&emsp; $ git init
-> &emsp;&emsp;&emsp; **Note:** Be sure not to include a double dollar sign ($ $) when copying and pasting the command.
+> &emsp;&emsp;&emsp; $ git config --global user.name "Your Name" 
+> &emsp;&emsp;&emsp; $ git config --global user.email "you@youraddress.com" 
+> &emsp;&emsp;&emsp; $ git config --global push.default matching 
+> &emsp;&emsp;&emsp; $ git config --global alias.co checkout 
+> &emsp;&emsp;&emsp; $ git init 
+> &emsp;&emsp;&emsp; **Note:** Be sure not to include a double dollar sign ($ $) when copying and pasting the command. 
 > &emsp;&emsp;&emsp; **Reference:** [Codemy](https://codemy.com/git/)
 8. It should look like this when you are done setting up **Git**.<br>
     <image src="https://github.com/francisdominicmarfil-hub/DSAMidterm/blob/main/Images/Git%20setup%20commands.png?raw=true" width="400" height="350"><br>
