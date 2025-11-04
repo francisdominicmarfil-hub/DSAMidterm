@@ -15,8 +15,8 @@
 3. Click **Install** and wait for the installation to complete.
 4. Once the installation is complete, you can test if the Git is really installed by doing the following steps:
 > &emsp;&emsp;&emsp; 1. Create a **new folder** in your desktop.  
-> &emsp;&emsp;&emsp; 2. Open it and **Right Click** inside the folder.
-> &emsp;&emsp;&emsp; 3. If the Git did not show up, you will need to click **show more options**.
+> &emsp;&emsp;&emsp; 2. Open it and **Right Click** inside the folder.  
+> &emsp;&emsp;&emsp; 3. If the Git did not show up, you will need to click **show more options**.  
 > &emsp;&emsp;&emsp; 4. Once you see Git, it means it is properly installed.
 
 ## **How to Setup Git?**
